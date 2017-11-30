@@ -1,0 +1,11 @@
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\bin\Debug\net452\student4Plugin.dll
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\bin\Debug\net452\student4Plugin.pdb
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\bin\Debug\net452\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\bin\Debug\net452\Microsoft.Xrm.Sdk.dll
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\bin\Debug\net452\Microsoft.IdentityModel.dll
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\obj\Debug\net452\student4Plugin.csprojResolveAssemblyReference.cache
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\obj\Debug\net452\student4Plugin.csproj.CoreCompileInputs.cache
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\obj\Debug\net452\student4Plugin.AssemblyInfoInputs.cache
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\obj\Debug\net452\student4Plugin.AssemblyInfo.cs
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\obj\Debug\net452\student4Plugin.dll
+C:\Users\Student_Admin\source\repos\student4Plugin\student4Plugin\obj\Debug\net452\student4Plugin.pdb
